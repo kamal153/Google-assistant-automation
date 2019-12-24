@@ -12,7 +12,7 @@
 
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883                   // use 8883 for SSL
-#define AIO_USERNAME    "kamal153"            // Replace it with your username
+#define AIO_USERNAME    "xxxxxxxxxxx"            // Replace it with your username
 #define AIO_KEY         "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"   // Replace with your Project Auth Key
 
 /************ Global State (you don't need to change this!) ******************/
