@@ -12,7 +12,7 @@ This application includes Google assistant along with Adafruit server and IFTTT 
 
 # Hardware Requirement
 NodeMCU – 32-bit ESP8266 development board with Wi-Fi SoC. \
- Relay module \
+Relay module \
 One 100 W Bulb
 
 
