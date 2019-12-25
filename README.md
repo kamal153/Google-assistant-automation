@@ -1,4 +1,4 @@
-# google-assistant-automation
+# Google-assistant-automation
 Google assistant is AI (Artificial Intelligence) based voice command service. Using voice, we can interact with google assistant and it can search on the internet, schedule events, set alarms, control appliances, etc. \
  \
 This service is available on smartphones and Google Home devices. \
